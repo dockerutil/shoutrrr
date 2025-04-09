@@ -8,10 +8,10 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/containrrr/shoutrrr/pkg/format"
-	"github.com/containrrr/shoutrrr/pkg/services/standard"
-	"github.com/containrrr/shoutrrr/pkg/types"
-	"github.com/containrrr/shoutrrr/pkg/util"
+	"github.com/dockerutil/shoutrrr/pkg/format"
+	"github.com/dockerutil/shoutrrr/pkg/services/standard"
+	"github.com/dockerutil/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/util"
 )
 
 // Service providing teams as a notification service

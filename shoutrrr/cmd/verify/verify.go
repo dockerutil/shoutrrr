@@ -2,9 +2,9 @@ package verify
 
 import (
 	"fmt"
-	"github.com/containrrr/shoutrrr/internal/util"
-	"github.com/containrrr/shoutrrr/pkg/format"
-	"github.com/containrrr/shoutrrr/pkg/router"
+	"github.com/dockerutil/shoutrrr/internal/util"
+	"github.com/dockerutil/shoutrrr/pkg/format"
+	"github.com/dockerutil/shoutrrr/pkg/router"
 	"github.com/fatih/color"
 	"os"
 

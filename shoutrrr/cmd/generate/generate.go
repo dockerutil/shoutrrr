@@ -3,9 +3,9 @@ package generate
 import (
 	"errors"
 	"fmt"
-	"github.com/containrrr/shoutrrr/pkg/generators"
-	"github.com/containrrr/shoutrrr/pkg/router"
-	"github.com/containrrr/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/generators"
+	"github.com/dockerutil/shoutrrr/pkg/router"
+	"github.com/dockerutil/shoutrrr/pkg/types"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 	"os"

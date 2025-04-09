@@ -67,7 +67,7 @@ On a system with Go installed you can install the latest Shoutrrr CLI
 command with:
 
 ```shell
-go install github.com/containrrr/shoutrrr/shoutrrr@latest
+go install github.com/dockerutil/shoutrrr/shoutrrr@latest
 ```
 
 ### Commands

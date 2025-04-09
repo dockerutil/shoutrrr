@@ -10,8 +10,8 @@ Heavily inspired by <a href="https://github.com/caronc/apprise">caronc/apprise</
 </p>
 
 <p align="center" class="badges">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/containrrr/shoutrrr/workflows/Main%20Workflow/badge.svg">
-        <img src="https://github.com/containrrr/shoutrrr/workflows/Main%20Workflow/badge.svg" alt="github actions workflow status">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/dockerutil/shoutrrr/workflows/Main%20Workflow/badge.svg">
+        <img src="https://github.com/dockerutil/shoutrrr/workflows/Main%20Workflow/badge.svg" alt="github actions workflow status">
     </a>
     <a href="https://codecov.io/gh/containrrr/shoutrrr" rel="nofollow">
         <img alt="codecov" src="https://codecov.io/gh/containrrr/shoutrrr/branch/main/graph/badge.svg">
@@ -19,16 +19,16 @@ Heavily inspired by <a href="https://github.com/caronc/apprise">caronc/apprise</
     <a href="https://www.codacy.com/gh/containrrr/shoutrrr/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=containrrr/shoutrrr&amp;utm_campaign=Badge_Grade" rel="nofollow">
         <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/47eed72de79448e2a6e297d770355544">
     </a>
-    <a href="https://goreportcard.com/badge/github.com/containrrr/shoutrrr" rel="nofollow">
-        <img alt="report card" src="https://goreportcard.com/badge/github.com/containrrr/shoutrrr">
+    <a href="https://goreportcard.com/badge/github.com/dockerutil/shoutrrr" rel="nofollow">
+        <img alt="report card" src="https://goreportcard.com/badge/github.com/dockerutil/shoutrrr">
     </a>
-    <a href="https://pkg.go.dev/github.com/containrrr/shoutrrr" rel="nofollow">
+    <a href="https://pkg.go.dev/github.com/dockerutil/shoutrrr" rel="nofollow">
         <img alt="go.dev reference" src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&amp;logoColor=white&amp;style=flat-square">
     </a>
-    <a href="https://github.com/containrrr/shoutrrr">
+    <a href="https://github.com/dockerutil/shoutrrr">
         <img alt="github code size in bytes" src="https://img.shields.io/github/languages/code-size/containrrr/shoutrrr.svg?style=flat-square">
     </a>
-    <a href="https://github.com/containrrr/shoutrrr/blob/main/LICENSE">
+    <a href="https://github.com/dockerutil/shoutrrr/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/github/license/containrrr/shoutrrr.svg?style=flat-square">
     </a>
 </p>

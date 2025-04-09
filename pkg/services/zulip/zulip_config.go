@@ -2,9 +2,9 @@ package zulip
 
 import (
 	"errors"
-	"github.com/containrrr/shoutrrr/pkg/format"
-	"github.com/containrrr/shoutrrr/pkg/services/standard"
-	"github.com/containrrr/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/format"
+	"github.com/dockerutil/shoutrrr/pkg/services/standard"
+	"github.com/dockerutil/shoutrrr/pkg/types"
 	"net/url"
 )
 

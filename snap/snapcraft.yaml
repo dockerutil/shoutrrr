@@ -6,11 +6,11 @@ description: |
   Shoutrrr is a way of making the sending of notifications easy by standardizing it.
 grade: stable 
 confinement: strict 
-contact: https://github.com/containrrr/shoutrrr/discussions
-issues: https://github.com/containrrr/shoutrrr/issues
+contact: https://github.com/dockerutil/shoutrrr/discussions
+issues: https://github.com/dockerutil/shoutrrr/issues
 icon: docs/shoutrrr-logotype.png
 license: MIT
-source-code: https://github.com/containrrr/shoutrrr
+source-code: https://github.com/dockerutil/shoutrrr
 type: app
 compression: lzo
 

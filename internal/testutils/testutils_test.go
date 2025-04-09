@@ -4,9 +4,9 @@ import (
 	"net/url"
 	"testing"
 
-	. "github.com/containrrr/shoutrrr/internal/testutils"
-	"github.com/containrrr/shoutrrr/pkg/services/standard"
-	"github.com/containrrr/shoutrrr/pkg/types"
+	. "github.com/dockerutil/shoutrrr/internal/testutils"
+	"github.com/dockerutil/shoutrrr/pkg/services/standard"
+	"github.com/dockerutil/shoutrrr/pkg/types"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

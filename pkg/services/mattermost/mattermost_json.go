@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"regexp"
 
-	"github.com/containrrr/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/types"
 )
 
 // JSON payload for mattermost notifications

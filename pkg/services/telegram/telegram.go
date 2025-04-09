@@ -2,11 +2,11 @@ package telegram
 
 import (
 	"errors"
-	"github.com/containrrr/shoutrrr/pkg/format"
+	"github.com/dockerutil/shoutrrr/pkg/format"
 	"net/url"
 
-	"github.com/containrrr/shoutrrr/pkg/services/standard"
-	"github.com/containrrr/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/services/standard"
+	"github.com/dockerutil/shoutrrr/pkg/types"
 )
 
 const (

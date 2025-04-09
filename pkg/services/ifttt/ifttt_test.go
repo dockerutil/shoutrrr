@@ -11,8 +11,8 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/containrrr/shoutrrr/internal/testutils"
-	"github.com/containrrr/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/internal/testutils"
+	"github.com/dockerutil/shoutrrr/pkg/types"
 	"github.com/jarcoal/httpmock"
 )
 

@@ -1,9 +1,9 @@
 package telegram
 
 import (
-	f "github.com/containrrr/shoutrrr/pkg/format"
-	"github.com/containrrr/shoutrrr/pkg/types"
-	"github.com/containrrr/shoutrrr/pkg/util/generator"
+	f "github.com/dockerutil/shoutrrr/pkg/format"
+	"github.com/dockerutil/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/util/generator"
 
 	"fmt"
 	"io"

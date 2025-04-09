@@ -9,12 +9,12 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/containrrr/shoutrrr/internal/dedupe"
-	intutil "github.com/containrrr/shoutrrr/internal/util"
-	"github.com/containrrr/shoutrrr/pkg/router"
-	"github.com/containrrr/shoutrrr/pkg/types"
-	"github.com/containrrr/shoutrrr/pkg/util"
-	cli "github.com/containrrr/shoutrrr/shoutrrr/cmd"
+	"github.com/dockerutil/shoutrrr/internal/dedupe"
+	intutil "github.com/dockerutil/shoutrrr/internal/util"
+	"github.com/dockerutil/shoutrrr/pkg/router"
+	"github.com/dockerutil/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/util"
+	cli "github.com/dockerutil/shoutrrr/shoutrrr/cmd"
 )
 
 // Cmd sends a notification using a service url

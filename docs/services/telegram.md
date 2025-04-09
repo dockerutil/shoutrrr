@@ -46,7 +46,7 @@ It will reply with the Chat ID for the chat where the forwarded message was orig
 Note that it will not work correctly for Group chats, as those messages are just seen as being posted by a user, not in a specific chat.
 Instead you can use the second method, which is to invite the @shoutrrrbot into your group chat and address a message to it (start the message with @shoutrrrbot). You can then safely kick the bot from the group. 
 
-The bot should be constantly online, unless it's usage exceeds the free tier on GCP. It's source is available at [github.com/containrrr/shoutrrrbot](https://github.com/containrrr/shoutrrrbot).
+The bot should be constantly online, unless it's usage exceeds the free tier on GCP. It's source is available at [github.com/dockerutil/shoutrrrbot](https://github.com/dockerutil/shoutrrrbot).
 
 
 

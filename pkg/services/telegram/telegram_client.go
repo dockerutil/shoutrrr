@@ -3,7 +3,7 @@ package telegram
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/containrrr/shoutrrr/pkg/util/jsonclient"
+	"github.com/dockerutil/shoutrrr/pkg/util/jsonclient"
 )
 
 // Client for Telegram API

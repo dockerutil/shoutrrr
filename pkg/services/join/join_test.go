@@ -1,9 +1,9 @@
 package join_test
 
 import (
-	"github.com/containrrr/shoutrrr/internal/testutils"
-	"github.com/containrrr/shoutrrr/pkg/format"
-	"github.com/containrrr/shoutrrr/pkg/services/join"
+	"github.com/dockerutil/shoutrrr/internal/testutils"
+	"github.com/dockerutil/shoutrrr/pkg/format"
+	"github.com/dockerutil/shoutrrr/pkg/services/join"
 	"github.com/jarcoal/httpmock"
 
 	"net/url"

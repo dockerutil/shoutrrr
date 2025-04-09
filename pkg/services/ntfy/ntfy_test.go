@@ -1,8 +1,8 @@
 package ntfy
 
 import (
-	"github.com/containrrr/shoutrrr/internal/testutils"
-	"github.com/containrrr/shoutrrr/pkg/format"
+	"github.com/dockerutil/shoutrrr/internal/testutils"
+	"github.com/dockerutil/shoutrrr/pkg/format"
 
 	"log"
 	"net/http"

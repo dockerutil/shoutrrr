@@ -8,8 +8,8 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/containrrr/shoutrrr/pkg/types"
-	"github.com/containrrr/shoutrrr/pkg/util"
+	"github.com/dockerutil/shoutrrr/pkg/types"
+	"github.com/dockerutil/shoutrrr/pkg/util"
 )
 
 // GetServiceConfig returns the inner config of a service

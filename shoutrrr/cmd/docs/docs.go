@@ -5,11 +5,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/containrrr/shoutrrr/pkg/router"
+	"github.com/dockerutil/shoutrrr/pkg/router"
 	"github.com/spf13/cobra"
 
-	f "github.com/containrrr/shoutrrr/pkg/format"
-	cli "github.com/containrrr/shoutrrr/shoutrrr/cmd"
+	f "github.com/dockerutil/shoutrrr/pkg/format"
+	cli "github.com/dockerutil/shoutrrr/shoutrrr/cmd"
 )
 
 var (
@@ -40,7 +40,7 @@ func Run(cmd *cobra.Command, args []string) {
 
 	res := printDocs(format, args)
 	if res.ExitCode != 0 {
-		_, _ = fmt.Fprintf(os.Stderr, res.Message)
+		_, _ = fmt.Fprintf(os.Stderr, "%s", res.Message)
 	}
 	os.Exit(res.ExitCode)
 }
